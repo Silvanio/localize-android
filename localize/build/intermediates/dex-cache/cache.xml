@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_36319a243462f9c6b31638d2c405ff273846471c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\libs\android-smart-image-view-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d76ea8c3e9a60101244d6d04aff8cc75888570f0">
+        <dex dex="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-smart-image-view-1.0.0_5f1cdb5940f9672679655e3014d34637dbdc0422\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\libs\jackson-all-1.8.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eff775c068cad98be2691ae73e7416ede1765512">
+        <dex dex="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-all-1.8.10_df109a5a6caedb3ddb93b39edbe16031fa6911b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvanio.junior\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_4ecb4cda5e30949a54ae9907ed111a290822f604\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvanio.junior\.android\build-cache\885c29dbb3910f98693c695ee6fb02112f32d641\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8651990e769f6e9a3ab7fdb248729dff676e7955\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a9a45d8b5fbbde6c871635fe57f14458b2ea5a7">
+        <dex dex="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_55482a8c018457999661ce8eaa3f43050fc23c68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\libs\Parse-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61cf79e2775b882ac0ea32d60ea2dbbf6f245cea">
+        <dex dex="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\build\intermediates\transforms\dex\debug\folders\1000\2\Parse-1.8.0_0ea8eb6f0e5b62814dd3700895e2d86abbc79c1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\silvanio.junior\.android\build-cache\885c29dbb3910f98693c695ee6fb02112f32d641\output\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_e11595ce0c8b1871944b7740012981f07493da10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\libs\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\build\intermediates\transforms\dex\debug\folders\1000\2\bolts-android-1.1.4_40cbb6effa78246b7397b945820f4e81f118df07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\libs\ParseCrashReporting-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="55e71442ecbce939ce2a1ad75d1a4408a61d6804">
+        <dex dex="C:\TRABALHO\PESSOAL\Ambiente\localize-app\localize\app\build\intermediates\transforms\dex\debug\folders\1000\2\ParseCrashReporting-1.8.0_7ae3324b2a168c3bfd09ae84f38c2af35feb6d89\classes.dex" />
+    </item>
+
+</items>

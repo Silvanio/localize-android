@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\layout\\action_bar.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_configuracoes.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\layout\\fragment_configuracoes.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\layout\\desktop.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\layout\\desktop.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_fornecedor_lista.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\layout\\item_fornecedor_lista.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detalhe_fornecedor.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\layout\\activity_detalhe_fornecedor.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inicial.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\layout\\inicial.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    }
+]

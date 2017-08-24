@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Localize</string>
+    <string name="label_localize_app">Localize - Sistema de Localização de Eventos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_configuracoes">Configurações</string>
+    <string name="localizacao">localizacao</string>
+    <string name="distancia">Distancia(Km)</string>
+    <string name="title_activity_desktop">DesktopActivity</string>
+    <string name="title_activity_teste">Teste</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_salvar">Salvar</string>
+
+    <string-array name="menu_array">
+        <item>Localize</item>
+        <item>Configurações</item>
+        <item>Sair</item>
+    </string-array>
+
+    <string name="drawer_open">Aberto</string>
+    <string name="drawer_close">Fechado</string>
+    <string name="distancia_quilometros">Distância em quilometros:</string>
+    <string name="search_action_bar">Informe oque deseja</string>
+    <string name="title_activity_detalhe_fornecedor">DetalheFornecedorActivity</string>
+
+</resources>

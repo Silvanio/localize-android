@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="2dp" >
+    
+    
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal">
+        
+        <ImageView
+        android:id="@+id/logo_empresa"
+        android:layout_width="100dp"
+        android:layout_height="80dp"
+        android:minHeight="1dp"
+        android:paddingBottom="50dp"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"
+        android:paddingTop="50dp"
+        android:adjustViewBounds="true"
+        android:clickable="true"
+        android:scaleType="center" />
+
+        
+        <RelativeLayout
+   			 android:layout_width="fill_parent"
+    			android:layout_height="wrap_content" >
+    
+    
+
+    <TextView
+        android:id="@+id/nome_item"
+        android:layout_width="250sp"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textColor="#333333"
+        android:textStyle="bold"
+        android:text="@string/app_name"
+        android:textSize="16sp" />
+    
+    <TextView
+        android:id="@+id/email_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textColor="#333333"
+        android:layout_below="@+id/nome_item"
+        android:text="@string/app_name"/>
+    
+    <TextView
+        android:id="@+id/descricao_item"
+   		android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:layout_below="@+id/email_item"
+        android:text="@string/app_name"
+        android:textColor="#696969" />
+
+
+    <TextView
+        android:id="@+id/distancia_item"
+    	android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/descricao_item"
+        android:text="@string/app_name"
+        android:textStyle="bold"
+        android:textColor="#ff6200" />
+     </RelativeLayout>       
+            
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>

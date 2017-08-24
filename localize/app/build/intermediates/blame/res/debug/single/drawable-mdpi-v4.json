@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_selector.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-mdpi\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_bg_normal.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-mdpi\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_item_bg_pressed.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-mdpi\\list_item_bg_pressed.xml"
+    }
+]

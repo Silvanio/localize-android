@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_fill.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\progress_fill.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\counter_bg.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\counter_bg.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_background_fill.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\progress_background_fill.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\style_hover_item_list.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\style_hover_item_list.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seek_progress.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\seek_progress.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\activated_background.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\activated_background.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\style_button.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\style_button.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_bg_normal.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\style_default_item_list.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\style_default_item_list.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.jpg",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\style_selector_item_list.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\style_selector_item_list.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_bg_pressed.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\drawable-hdpi\\list_selector.xml"
+    }
+]

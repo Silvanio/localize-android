@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\menu\\action_bar.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\menu\\action_bar.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\menu\\teste.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\menu\\teste.xml"
+    },
+    {
+        "merged": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detalhe_fornecedor.xml",
+        "source": "C:\\TRABALHO\\PESSOAL\\Ambiente\\localize-app\\localize\\app\\src\\main\\res\\menu\\detalhe_fornecedor.xml"
+    }
+]
